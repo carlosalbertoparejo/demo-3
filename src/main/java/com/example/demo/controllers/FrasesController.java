@@ -1,7 +1,8 @@
 package com.example.demo.controllers;
 
-import com.example.demo.services.FrasesService;
 import org.springframework.web.bind.annotation.*;
+
+import com.example.demo.service.FrasesService;
 
 import java.util.Map;
 
